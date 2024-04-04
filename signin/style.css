@@ -1,0 +1,128 @@
+/* .left{
+    width: 60%;
+    border-color: black;
+    border-style: solid;
+    border-width: 10px;
+}
+
+.right{
+    width: 40%; 
+    border-color: red;
+    border-style: solid;
+    border-width: 10px;
+} */
+
+
+
+.left {
+
+    width: 919px;
+    height: 1024px;
+    /* width: 100%;
+    height: 100vh; */
+    /* border-color: black;
+    border-style: solid;
+    border-width: 10px; */
+    /* float: left; */
+    /* margin-right: 100px; */
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+.right {
+    padding: 60px;
+    /* margin-left: 30px; */
+    width: 624px;
+    height: 1024px;
+    /* border-color: red;
+    border-style: solid;
+    border-width: 10px; */
+    /* float: left; */
+    border-radius: 0px 15px 15px 0px;
+    box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+
+}
+
+/* img {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+} */
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    padding: 20px;
+}
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 800 */
+
+body {
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.svg_size{
+    height: 25px;
+}
+
+.bolder{
+    font-weight: 500;
+}
+
+.under-logo{
+    text-align: center;
+    font-size: small;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.sign-btn{
+    background-color: #43766C;
+    border-radius: 50px;
+    width: 410px;
+    height: 65px;
+    font-weight: 500;
+    font-size: larger;
+}
+
+.co-tk{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.sign-in{
+    text-align: center;
+    font-size:  20px;
+    font-weight: 530;
+    color: #43766C;
+}
+
+/* .shadow {
+    box-shadow: -3px 3px 5px 6px #ccc;
+  } */
+
+  .logo{
+    margin: 0;
+    padding-left: 10px;
+    padding-bottom: 10px;
+  }
+
+.divide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border-radius: 15px 0px 0px 15px;
+    box-shadow: -10px 0px 10px rgba(0, 0, 0, 0.1);
+}
